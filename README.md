@@ -1,6 +1,6 @@
 # monkey mind
 
-Pagina de desenvolviento 
+Pagina de desenvolvimento 
 > http://localhost:5000/
 
 # Archetype
